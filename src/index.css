@@ -1,0 +1,50 @@
+body {
+font-family: 'Raleway', sans-serif;
+}
+
+/* code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+} */
+
+.header {
+  background-color: cadetblue;
+  font-family: 'Dancing Script', cursive;
+  color: white;
+}
+
+.directory-view {
+  width: 40%;
+  float: left;
+  height: 300px;
+  
+}
+
+.form {
+  margin-bottom: 20px;
+}
+
+.input {
+  width: 80%;
+  border-radius: 5px;
+}
+
+.button {
+  background-color: cadetblue;
+  color: white;
+  border-radius: 5px;
+}
+
+.recipecard {
+  border: 2px solid grey;
+  border-radius: 5px;
+  border-spacing: 5px;
+  margin-bottom: 15px;
+}
+
+.detail-view {
+  width: 50%;
+  float: right;
+  height: 300px;
+  position: static;
+}
